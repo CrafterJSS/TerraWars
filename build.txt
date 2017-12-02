@@ -1,0 +1,4 @@
+﻿author = CrafterJSS
+version = 0.1
+displayName = Terra Wars
+includePDB = true
