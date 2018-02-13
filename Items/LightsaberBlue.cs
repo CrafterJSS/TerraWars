@@ -25,7 +25,7 @@ namespace TerraWars.Items
             item.knockBack = 6;
             item.value = Item.buyPrice(1, 0, 0, 0);
             item.rare = 12;
-            item.UseSound = SoundID.Item1;
+            item.UseSound = SoundID.Item15;
             item.autoReuse = true;
         }
 
