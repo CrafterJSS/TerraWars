@@ -55,6 +55,7 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Items\KyberCrystal.cs" />
     <Compile Include="Items\LightsaberBlue.cs" />
     <Compile Include="TerraWars.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
